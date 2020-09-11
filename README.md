@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi there 👋, if you don't know already...
+### Hi there 👋, welcome to my account...
 I'm [Sunday Odong](https://odongsunday.netlify.app/), a Full Stack Developer 🚀 from Kampala, Uganda. 
 ### About me
 - 🔭 I’m Persuing a full-stack software development course at an online school called [Microverse](https://www.microverse.org/)
