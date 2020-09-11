@@ -4,7 +4,7 @@
 I'm [Sunday Odong](https://odongsunday.netlify.app/), a Full Stack Developer 🚀 from Kampala, Uganda. 
 ### About me
 - 🔭 I’m Persuing a full-stack software development course at an online school called [Microverse](https://www.microverse.org/)
-- 👯 I’m software developer at [Learning Dollars](https://www.learningdollars.com/).
+- 👯 I’m a free-lance software developer at [Learning Dollars](https://www.learningdollars.com/).
 - 👯 I’m also looking to collaborate on a couple of open source projects.
 
 ⚡ **Fun fact:** Before I started programming, I thought it was about binary digits. You know, those zeros and ones. Hahaha!!. A programmer suited the description of a computer or some robot. After realizing the content and knowing that one can change the world through programming, I am glad to be one. 
@@ -17,7 +17,7 @@ I'm [Sunday Odong](https://odongsunday.netlify.app/), a Full Stack Developer �
   <img alt="Api" src="https://img.shields.io/badge/-API-F7B93E?style=flat-square&logo=api&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-8DD6F9?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" href="https://www.mongodb.com/"/>
   <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-CB3837?style=flat-square&logo=Express.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
