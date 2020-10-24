@@ -1,9 +1,9 @@
 ### Hi there 👋, welcome to my account...
 I'm [Sunday Odong](https://odongsunday.netlify.app/), a Full Stack Developer 🚀 from Kampala, Uganda. 
 ### About me
-- 🔭 I’m Persuing a full-stack software development course at an online school called [Microverse](https://www.microverse.org/)
 - 👯 I’m a freelance software developer at [Learning Dollars](https://www.learningdollars.com/).
-- 👯 I’m also looking to collaborate on a couple of open source projects.
+- 👯 I’m looking for a full stack software development opportunities.
+- 👯 I’m also looking for an opportunity to collaborate on open source projects.
 
 ⚡ **Fun fact:** Before I started programming, I thought it was about binary digits. You know, those zeros and ones. Hahaha!!. A programmer suited the description of a computer or some robot. After realizing the content and knowing that one can change the world through programming, I am glad to be one. 
 
@@ -32,7 +32,7 @@ I'm [Sunday Odong](https://odongsunday.netlify.app/), a Full Stack Developer �
 
 
 <h3>How to reach me: </h3>
-<p><a href="https://github.com/OdongAlican" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/odongsandie" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sunday-alican-odong/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@sandieo.2020" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://twitter.com/odongsandie" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sunday-alican-odong/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@sandieo.2020" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 
