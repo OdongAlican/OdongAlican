@@ -2,7 +2,7 @@
 I'm [Sunday Odong](https://odongsunday.netlify.app/), a Full Stack Developer 🚀 from Kampala, Uganda. 
 ### About me
 - 👯 I’m a freelance software developer at [Learning Dollars](https://www.learningdollars.com/).
-- 👯 I’m looking for a full stack software development opportunities.
+- 👯 I’m looking for a software development opportunities.
 - 👯 I’m also looking for an opportunity to collaborate on open source projects.
 
 ⚡ **Fun fact:** Before I started programming, I thought it was about binary digits. You know, those zeros and ones. Hahaha!!. A programmer suited the description of a computer or some robot. After realizing the content and knowing that one can change the world through programming, I am glad to be one. 
