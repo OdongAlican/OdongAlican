@@ -1,7 +1,7 @@
 ### Hi there 👋, welcome to my account...
 I'm [Sunday Odong](https://odongsunday.netlify.app/), a Full Stack Developer 🚀 from Kampala, Uganda. 
 ### About me
-- 👯 I’m a freelance software developer at [Learning Dollars](https://www.learningdollars.com/).
+- 👯 I’m a Software developer at [Coseke Uganda](https://www.coseke.com/).
 - 👯 I’m looking for a software development opportunity.
 - 👯 I’m also looking for an opportunity to collaborate on open source projects.
 
